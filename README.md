@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Doctor Appointment System
 
 ## Overview
@@ -27,3 +28,6 @@ This project is a Doctor Appointment System built with React, Express.js, and Mo
    ```bash
    git clone https://github.com/yourusername/doctor-appointment-system.git
    cd doctor-appointment-system
+=======
+# Doctor_Appointment_System
+>>>>>>> b24f3ace60836703f756067a3e4319b4a441fd16
